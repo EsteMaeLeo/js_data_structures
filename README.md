@@ -33,11 +33,14 @@ Repo just for fun and learning data structure in JS
 
 none
 
-## Tests
+## Nodes
 
-To run tests, run the following command:
+Fundamental building blocks. They form the basis of linked list, stacks, queues, tree and more.
+Link or links within the node are referred to as pointers. If the links point NULL is reach the end or particular node.
 
-> none
+> Contain data can be variety of data types
+
+> Contain links to another nodes. Can not have links to other nodes.
 
 ## Questions
 
