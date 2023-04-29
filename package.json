@@ -1,0 +1,23 @@
+{
+  "name": "js_data_structures",
+  "version": "1.0.0",
+  "description": "[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsteMaeLeo/js_data_structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsteMaeLeo/js_data_structures/issues"
+  },
+  "homepage": "https://github.com/EsteMaeLeo/js_data_structures#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
