@@ -31,7 +31,7 @@ Repo just for fun and learning data structure in JS
 
 ## Contributing
 
-none
+Please send an email to leonel22@gmail.com
 
 ## Nodes
 
@@ -41,6 +41,12 @@ Link or links within the node are referred to as pointers. If the links point NU
 > Contain data can be variety of data types
 
 > Contain links to another nodes. Can not have links to other nodes.
+
+## List
+
+The list is comprised of a series of nodes. The head node is the node at the beginning of the list. Each node contains data and a pointer to the next node in the list. The list is terminated when a node’s link is null. Linked lists typically contain unidirectional links (next node), but some implementations make use of bidirectional links (next and previous nodes).
+
+> Operations on linked list: adding nodes, removing nodes, finding a node and raveling through the linked list.
 
 ## Questions
 
